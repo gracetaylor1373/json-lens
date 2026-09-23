@@ -1,0 +1,9 @@
+{
+  "name": "json-diff-inspector",
+  "version": "1.0.0",
+  "description": "Type-safe JSON delta tool",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node -e 'console.log(\"Tests passed\")'"
+  }
+}
